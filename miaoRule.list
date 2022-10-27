@@ -1,0 +1,18 @@
+# miaoRule
+
+# miaoRule_video
+#nivod
+HOST-SUFFIX,mudvod.tv,Proxy
+HOST-SUFFIX,nivod.tv,Proxy
+HOST-SUFFIX,newpppp.com,Proxy
+#guazitv
+HOST-SUFFIX,haiwaikan.com,Proxy
+HOST-SUFFIX,diana2063.com,Proxy
+HOST-SUFFIX,guazitv.tv,Proxy 
+#tangrenjie
+#HOST-SUFFIX,if101.tv,Proxy
+#HOST-SUFFIX,tangrenjie.tv,Proxy
+#HOST-SUFFIX,kaooooo.com,Proxy 
+
+#HOST-KEYWORD,tiktokv,TikTok
+#USER-AGENT,TikTok*,TikTok
