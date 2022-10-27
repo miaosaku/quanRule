@@ -7,8 +7,11 @@ HOST-SUFFIX,nivod.tv,PROXY
 HOST-SUFFIX,newpppp.com,PROXY
 #guazitv
 HOST-SUFFIX,haiwaikan.com,PROXY
-HOST-SUFFIX,diana2063.com,PROXY
 HOST-SUFFIX,guazitv.tv,PROXY 
+HOST-SUFFIX,feitu.tv,PROXY 
+HOST-SUFFIX,diana2063.com,PROXY
+HOST-SUFFIX,vesta4715.com,PROXY
+HOST-SUFFIX,czsp.tv,REJECT 
 #tangrenjie
 #HOST-SUFFIX,if101.tv,PROXY
 #HOST-SUFFIX,tangrenjie.tv,PROXY
